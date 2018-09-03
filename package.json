@@ -1,0 +1,9 @@
+{
+  "name": "rowidx",
+  "version": "0.1.0",
+  "repo": "hcnn/rowidx",
+  "description": "Convert matrix indicies i and j to an array's row-major index",
+  "keywords": ["row major order", "matrix indicies"],
+  "license": "MIT",
+  "src": ["rowidx.c", "rowidx.h"]
+}
